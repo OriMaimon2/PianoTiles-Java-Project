@@ -198,6 +198,3 @@ Transitions:
 - Add packaging/build scripts (Maven/Gradle) and executable JAR support.
 - Add tests for non-UI logic (scoring, spawn behavior, difficulty thresholds).
 
----
-
-If you want, this README can be extended with animated GIFs/screenshots, a changelog, and contributor/setup sections for team collaboration.
